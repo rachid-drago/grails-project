@@ -5,7 +5,7 @@ import grails.rest.Resource
 import grails.validation.ValidationException
 import static org.springframework.http.HttpStatus.*
 
-@Secured(value=["hasRole('ROLE_ADMIN')"])
+
 
 class UserController {
 

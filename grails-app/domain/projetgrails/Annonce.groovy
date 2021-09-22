@@ -3,7 +3,7 @@ package projetgrails
 import grails.rest.Resource
 
 
-@Resource
+//@Resource
 class Annonce {
 
     String title

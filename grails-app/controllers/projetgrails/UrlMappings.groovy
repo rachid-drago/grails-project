@@ -9,7 +9,7 @@ class UrlMappings {
             }
         }
         /*"/api/users"(resources: "user")
-        "/api/salesad"(resources: "saleAd")
+        "/api/annonces"(resources: "saleAd")
         "/api/illustrations"(resources: "illustration")
 */
         "/"(view:"/index")
